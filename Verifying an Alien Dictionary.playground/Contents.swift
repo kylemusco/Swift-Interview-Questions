@@ -4,7 +4,15 @@ import UIKit
 import XCTest
 
 class Solution {
+    // Time: O(N)
+    // Space: O(1)
     static func isAlienSorted(_ words: [String], _ order: String) -> Bool {
+        // Generate index mapping for "order"
+        var index = [Character:Int]()
+        for (i, c) in order.enumerated() {
+            index[c] = i
+        }
+        
         // Iterate through each word in words
         for i in 0..<words.count-1 {
             // Iterate through each letter in words[i]
@@ -17,8 +25,8 @@ class Solution {
 
                 // If characters do not match, check their order
                 if (words[i][j] != words[i+1][j]) {
-                    let currentWordChar = getIndex(c:words[i][j], word: order)
-                    let nextWordChar = getIndex(c:words[i+1][j], word: order)
+                    let currentWordChar = index[words[i][j]]!
+                    let nextWordChar = index[words[i+1][j]]!
 
                     // words[i] comes after words[i+1] so return false
                     if (currentWordChar > nextWordChar) {
@@ -32,16 +40,6 @@ class Solution {
         }
         
         return true
-    }
-    
-    // Gets index of char in string as an integer
-    private static func getIndex(c: Character, word: String) -> Int {
-        if let i = word.firstIndex(of: c) {
-            let index: Int = word.distance(from: word.startIndex, to: i)
-            return index
-        }
-        
-        return -1
     }
 }
 
