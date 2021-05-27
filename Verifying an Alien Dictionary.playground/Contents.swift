@@ -20,7 +20,7 @@ class Solution {
                     let currentWordChar = getIndex(c:words[i][j], word: order)
                     let nextWordChar = getIndex(c:words[i+1][j], word: order)
 
-                    // words[i] comes before words[i+1] so return false
+                    // words[i] comes after words[i+1] so return false
                     if (currentWordChar > nextWordChar) {
                         return false
                     }
@@ -34,6 +34,7 @@ class Solution {
         return true
     }
     
+    // Gets index of char in string as an integer
     private static func getIndex(c: Character, word: String) -> Int {
         if let i = word.firstIndex(of: c) {
             let index: Int = word.distance(from: word.startIndex, to: i)
