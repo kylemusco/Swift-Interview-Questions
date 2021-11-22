@@ -24,7 +24,7 @@ class Solution {
         var middle = 0
         
         while left <= right {
-            middle = Int(floor(Double(left+right)/2.0))
+            middle = left + (right - left) / 2;
             
             if nums[middle] < target {
                 left = middle+1
@@ -37,8 +37,8 @@ class Solution {
             }
         }
         
-        // If target does not exist in nums, return middle
-        return middle
+        // If target does not exist in nums, return left
+        return left
     }
 }
 
@@ -47,30 +47,38 @@ class Tests : XCTestCase {
         let nums = [1,3,5,6]
         let target = 5
         let answer = 2
-        
+
         XCTAssertEqual(Solution.searchInsert(nums, target), answer)
     }
-    
+
     func test2() {
         let nums = [1,3,5,6]
         let target = 7
         let answer = 4
-        
+
         XCTAssertEqual(Solution.searchInsert(nums, target), answer)
     }
-    
+
     func test3() {
         let nums = [1,3,5,6]
         let target = 4
         let answer = 2
-        
+
         XCTAssertEqual(Solution.searchInsert(nums, target), answer)
     }
-    
+
     func test4() {
         let nums = [Int]()
         let target = 4
         let answer = 0
+
+        XCTAssertEqual(Solution.searchInsert(nums, target), answer)
+    }
+    
+    func test5() {
+        let nums = [1,3,5,6]
+        let target = 2
+        let answer = 1
         
         XCTAssertEqual(Solution.searchInsert(nums, target), answer)
     }
