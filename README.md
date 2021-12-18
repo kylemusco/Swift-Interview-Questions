@@ -7,6 +7,7 @@ A collection of Swift solutions to LeetCode problems and other iOS related inter
 * [Add Two Numbers](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Add%20Two%20Numbers.playground/Contents.swift)
 * [Best Time to Buy and Sell Stock](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock.playground/Contents.swift)
 * [Binary Tree Vertical Order Traversal](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Binary%20Tree%20Vertical%20Order%20Traversal.playground/Contents.swift)
+* [Climbing Stairs](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Climbing%20Stairs.playground/Contents.swift)
 * [Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.playground/Contents.swift)
 * [Count Good Nodes in Binary Tree](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Count%20Good%20Nodes%20in%20Binary%20Tree.playground/Contents.swift)
 * [Dot Product of Two Sparse Vectors](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Dot%20Product%20of%20Two%20Sparse%20Vectors.playground/Contents.swift)
