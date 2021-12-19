@@ -21,6 +21,7 @@ A collection of Swift solutions to LeetCode problems and other iOS related inter
 * [Merge Two Sorted Lists](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Merge%20Two%20Sorted%20Lists.playground/Contents.swift)
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.playground/Contents.swift)
 * [Pair Sum](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Pair%20Sum.playground/Contents.swift)
+* [Pascal's Triangle](https://github.com/kylemusco/Swift-Interview-Questions/tree/master/Pascal's%20Triangle.playground)
 * [Plus One Linked List](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Plus%20One%20Linked%20List.playground/Contents.swift)
 * [Product of Array Except Self](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Product%20of%20Array%20Except%20Self.playground/Contents.swift)
 * [Remove Duplicates from Sorted List](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Remove%20Duplicates%20from%20Sorted%20List.playground/Contents.swift)
