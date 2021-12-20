@@ -19,6 +19,7 @@ A collection of Swift solutions to LeetCode problems and other iOS related inter
 * [Length of Last Word](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Length%20of%20Last%20Word.playground/Contents.swift)
 * [Merge Intervals](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Merge%20Intervals.playground/Contents.swift)
 * [Merge Two Sorted Lists](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Merge%20Two%20Sorted%20Lists.playground/Contents.swift)
+* [Min Stack](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Min%20Stack.playground/Contents.swift)
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.playground/Contents.swift)
 * [Pair Sum](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Pair%20Sum.playground/Contents.swift)
 * [Pascal's Triangle](https://github.com/kylemusco/Swift-Interview-Questions/tree/master/Pascal's%20Triangle.playground)
