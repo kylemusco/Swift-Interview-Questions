@@ -13,6 +13,7 @@ A collection of Swift solutions to LeetCode problems and other iOS related inter
 * [Container With Most Water](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Container%20With%20Most%20Water.playground/Contents.swift)
 * [Dot Product of Two Sparse Vectors](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Dot%20Product%20of%20Two%20Sparse%20Vectors.playground/Contents.swift)
 * [First Bad Version](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/First%20Bad%20Version.playground/Contents.swift)
+* [Happy Number](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Happy%20Number.playground/Contents.swift)
 * [Implement strStr()](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Implement%20strStr().playground/Contents.swift)
 * [Is Palindrome](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Is%20Palindrome.playground/Contents.swift)
 * [K Closest Points to Origin](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/K%20Closest%20Points%20to%20Origin.playground/Contents.swift)
