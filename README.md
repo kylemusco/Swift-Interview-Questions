@@ -10,6 +10,7 @@ A collection of Swift solutions to LeetCode problems and other iOS related inter
 * [Climbing Stairs](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Climbing%20Stairs.playground/Contents.swift)
 * [Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.playground/Contents.swift)
 * [Count Good Nodes in Binary Tree](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Count%20Good%20Nodes%20in%20Binary%20Tree.playground/Contents.swift)
+* [Container With Most Water](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Container%20With%20Most%20Water.playground/Contents.swift)
 * [Dot Product of Two Sparse Vectors](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Dot%20Product%20of%20Two%20Sparse%20Vectors.playground/Contents.swift)
 * [First Bad Version](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/First%20Bad%20Version.playground/Contents.swift)
 * [Implement strStr()](https://github.com/kylemusco/Swift-Interview-Questions/blob/master/Implement%20strStr().playground/Contents.swift)
